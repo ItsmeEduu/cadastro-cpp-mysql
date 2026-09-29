@@ -50,7 +50,7 @@ O script `banco.sql` cria o banco `sistemas_cadastro` e a tabela `pessoas`. Impo
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/ItsmeEduu/NOME-DO-REPOSITORIO.git
+   git clone https://github.com/ItsmeEduu/cadastro-cpp-mysql.git
    ```
 2. Inicie o WampServer e importe o `banco.sql`.
 3. Compile apontando para as pastas do MySQL (ajuste o caminho conforme a versão instalada):
