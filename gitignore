@@ -1,0 +1,11 @@
+# Arquivos gerados na compilação
+*.o
+*.exe
+
+# DLLs (devem vir da instalação do WampServer)
+*.dll
+
+# Arquivos gerados pelo Dev-C++ com caminhos da sua máquina
+*.layout
+*.dev
+Makefile.win
